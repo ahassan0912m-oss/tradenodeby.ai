@@ -1,0 +1,13 @@
+[theme]
+primaryColor="#FF4B4B"
+backgroundColor="#0A0A0B"
+secondaryBackgroundColor="#111214"
+textColor="#E6E6E6"
+font="Inter"
+
+[server]
+headless = true
+enableCORS = false
+
+[browser]
+gatherUsageStats = false
